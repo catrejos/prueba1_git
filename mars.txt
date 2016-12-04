@@ -1,0 +1,3 @@
+It's read and cold and far far away.
+
+This is a excercise about why not to dot repositories within existing repositories.
